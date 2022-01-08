@@ -49,7 +49,7 @@ _... (and so on for the other vowels) ..._
 - (grade) ° -> Alt-Gr + v  
 
 ## How to Build or Install
-You can download the latest installer from the releases tab of this repo (https://github.com/thomasfaingnaert/win-us-intl-altgr/releases).
+You can download the latest installer from the [releases](https://github.com/jesuswasrasta/win-us-intl-altgr/releases) tab of this repo.
 
-If you prefer to build from source, you can open the .KLC source file in Microsoft Keyboard Layout Creator.
-After opening the file, choose Project > Build DLL and Setup Package in the menu to create an installer.
+If you prefer to build from source, you can open the .KLC source file in [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+After opening the file, choose `Project > Build DLL` and Setup Package in the menu to create an installer.
